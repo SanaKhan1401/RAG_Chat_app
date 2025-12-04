@@ -12,9 +12,3 @@ A Streamlit application demonstrating a Multi-Document Retrieval-Augmented Gener
 - Shows top retrieved context chunks for transparency
 ## Requirements
 - Python 3.10+
-## Setup
-1. Create virtualenv and activate
-```bash
-python -m venv .venv
-source .venv/bin/activate # macOS / Linux
-.venv\Scripts\activate # Windows
